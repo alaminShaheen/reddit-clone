@@ -1,4 +1,15 @@
+import {
+  Link as ChakraLink,
+  Text,
+  Code,
+  List,
+  ListIcon,
+  ListItem,
+} from '@chakra-ui/react'
+import { CheckCircleIcon, LinkIcon } from '@chakra-ui/icons'
 
-const Index = () => <div>henlo world!</div>;
+const Index = () => (
+  <div>Hello world!!!!!!</div>
+)
 
-export default Index;
+export default Index
